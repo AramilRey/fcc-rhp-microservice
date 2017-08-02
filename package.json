@@ -1,0 +1,24 @@
+{
+  "name": "rhp-microservice",
+  "version": "1.0.0",
+  "description": "freeCodeCamp challenge: \"Request Header Parser Microservice\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AramilRey/fcc-rhp-microservice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AramilRey/fcc-rhp-microservice/issues"
+  },
+  "homepage": "https://github.com/AramilRey/fcc-rhp-microservice#readme",
+  "dependencies": {
+    "ua-parser-js": "^0.7.14"
+  }
+}
