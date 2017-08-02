@@ -11,7 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/AramilRey/fcc-rhp-microservice.git"
   },
-  "engines": { "node" : "8.x" },
+  "engines": {
+    "node": "8.x"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -20,6 +22,8 @@
   },
   "homepage": "https://github.com/AramilRey/fcc-rhp-microservice#readme",
   "dependencies": {
+    "koa": "^2.3.0",
+    "koa-router": "^7.2.1",
     "ua-parser-js": "^0.7.14"
   }
 }
