@@ -11,6 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/AramilRey/fcc-rhp-microservice.git"
   },
+  "engines": { "node" : "8.x" },
   "keywords": [],
   "author": "",
   "license": "ISC",
